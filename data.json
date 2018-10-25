@@ -1,0 +1,22 @@
+{
+   "user1" : {
+      "name" : "Srinivas Angara",
+      "password" : "*********",
+      "profession" : "Software",
+      "id": 1
+   },
+   
+   "user2" : {
+      "name" : "Pritam Chaterjee",
+      "password" : "*********",
+      "profession" : "Software",
+      "id": 2
+   },
+   
+   "user3" : {
+      "name" : "Srikanth",
+      "password" : "*********",
+      "profession" : "Software",
+      "id": 3
+   }
+}
